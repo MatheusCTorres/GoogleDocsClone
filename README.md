@@ -1,1 +1,1 @@
-# GoogleDocsClone
+# Google Document clone
